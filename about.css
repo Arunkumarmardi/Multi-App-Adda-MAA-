@@ -1,0 +1,32 @@
+body {
+    background-color: cornflowerblue;
+    font-family:monospace;
+}
+
+#about {
+    text-align: center;
+    background-color:bisque;
+}
+
+#game {
+    background-color: gray;
+    margin-left:0 ;
+}
+
+#utility {
+    background-color: rgb(59, 161, 88);
+    margin-left: 0;
+    
+}
+
+#e-commerce {
+    background-color: rgb(175, 78, 112);
+    margin-left: 0;
+    
+}
+
+#d-by {
+    background-color: darkorchid;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

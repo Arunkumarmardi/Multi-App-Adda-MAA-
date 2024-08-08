@@ -1,0 +1,29 @@
+body {
+    background-color: cornflowerblue;
+}
+
+#about {
+    text-align: center;
+    background-color:bisque;
+}
+
+#weather {
+    background-color: gray;
+    margin-left:0 ;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#calculator {
+    background-color: rgb(59, 161, 88);
+    margin-left: 0;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#finance {
+    background-color: rgb(175, 78, 112);
+    margin-left: 0;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
