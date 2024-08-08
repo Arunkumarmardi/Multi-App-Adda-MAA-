@@ -1,1 +1,1 @@
-MAA is a Multi App Adda
+Multi App Adda
